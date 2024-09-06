@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Crowdfunding ETL Project
 ---
 
@@ -141,6 +140,5 @@ The instructions for this mini project are divided into the following subsection
 
 # Support and Resources
 Your instructional team will provide support during classes and office hours. You will also have access to learning assistants and tutors to help you with topics as needed. Make sure to take advantage of these resources as you collaborate with your partner on this project.
-=======
 
->>>>>>> 51e3ba1efbdcd0cb32bc86996ab64d4ec66b40f4
+
